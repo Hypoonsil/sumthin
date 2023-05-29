@@ -6,7 +6,7 @@ def welcome():
     print("Hello Master,\nWhat do you want to store today?")
 
 #variables
-file = open("C:\Users\Hypensil\Documents\Projects\BoWL\BOWL.txt", "w")
+file = open("BOWL.txt", "w")
 #starting main program
 welcome()
 FirstInput = input()
